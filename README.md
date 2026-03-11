@@ -81,9 +81,9 @@ hobbies: ["Calisthenics 💪", "Guitar 🎸", "Cycling 🚴", "Gaming 🎮"]
 ---
 
 ### 📦 99envios.app — E-Commerce / Dropshipping
-> Plataforma de comercio electrónico con panel de gestión de envíos. Frontend en **React.js** y backend en **Laravel** con integración de múltiples servicios de logística.
+> Plataforma de e-commerce con enfoque en dropshipping. Responsable del **frontend en React.js** y consumo de APIs REST para gestión de envíos y 
 
-`React.js` `Laravel` `MySQL` `REST API`
+`React.js` `REST API` `API Integration` `JavaScript`
 
 ---
 
