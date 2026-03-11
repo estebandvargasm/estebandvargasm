@@ -92,7 +92,7 @@ hobbies: ["Calisthenics 💪", "Guitar 🎸", "Cycling 🚴", "Gaming 🎮"]
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://estebandvargasm.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/estebandvargasm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/esteban-david-vargas-medina/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/estebandvargasm)
 
 </div>
