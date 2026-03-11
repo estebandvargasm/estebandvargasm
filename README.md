@@ -74,9 +74,9 @@ hobbies: ["Calisthenics 💪", "Guitar 🎸", "Cycling 🚴", "Gaming 🎮"]
 ## 🚀 Featured Projects
 
 ### 🚖 Milla 99 — Ride-Sharing App
-> Plataforma de transporte al estilo Uber desarrollada con **React Native** (frontend móvil) y **Laravel** (backend). Incluye integración de pagos via Google Play, APIs de geolocalización con **TomTom** y reverse geocoding.
+> App móvil de transporte tipo Uber. Responsable del **frontend en React Native** y consumo de APIs REST. Integración con **TomTom API**  para reverse geocoding, trazado de rutas en mapa y autocompletado de destinos.
 
-`React Native` `Laravel` `REST API` `TomTom API` `Google Play Billing`
+`React Native` `REST API` `TomTom API` `API Integration` `JavaScript`
 
 ---
 
