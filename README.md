@@ -18,7 +18,7 @@ experience: "1+ years"
 education: "Systems Engineering"
 currently_working_on: ["Web Apps", "Mobile Apps", "REST APIs"]
 currently_learning: ["Deno", "Advanced Laravel", "DevOps", "Cloud Deployment"]
-hobbies: ["Calisthenics 💪", "Guitar 🎸", "Cycling 🚴", "Gaming , "Singing 🎤"🎮"]
+hobbies: ["Calisthenics 💪", "Guitar 🎸", "Cycling 🚴", "Gaming 🎮", "Singing 🎤"]
 ```
 
 ---
